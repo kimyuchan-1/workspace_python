@@ -9,4 +9,3 @@ n2 = int(input('정수 n2：'))
 
 minimum, maximum = min_max2(n1, n2)
 print('최솟값은', minimum, '이고 최댓값은', maximum, '입니다.')
-
